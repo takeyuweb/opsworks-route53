@@ -10,4 +10,4 @@ version          '1.0.0'
   supports platform
 end
 
-depends 'route53'
+depends 'route53', '= 0.4.4'
